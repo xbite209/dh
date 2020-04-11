@@ -299,14 +299,6 @@ blockquote {
 	color: gray;
 }
 
-#tp-weather-widget .sw-container {
-	z-index: 9;
-	left: unset;
-	right: 10px;
-	top: unset;
-	bottom: 10px;
-	box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 0px;
-}
 
 /*动画*/
 @keyframes fade-in {
