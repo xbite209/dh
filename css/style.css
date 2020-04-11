@@ -332,9 +332,3 @@ blockquote {
 	100% {
 		opacity: 1;
 	}
-	
-@media screen and (max-width: 900px) {
-	#tp-weather-widget {
-    display: none;
-}
-}
