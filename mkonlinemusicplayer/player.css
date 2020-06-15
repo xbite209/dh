@@ -377,7 +377,7 @@ body {
     display: block;
     width: 36px;
     height: 36px;
-    background-image: url("../images/icon_list_menu.png");
+    background-image: url("https://cdn.jsdelivr.net/gh/xbite209/dh/mkonlinemusicplayer/icon_list_menu.png");
     float: left;
     margin-left: 10px;
     cursor: pointer;
@@ -576,7 +576,7 @@ body {
     text-align: center;
     line-height: 26px;
     font-weight: bold;
-    background-image: url(../images/player.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/xbite209/dh/mkonlinemusicplayer/player.png);
     background-position: -28px -367px;
     background-color: #353535;
     opacity: 0.3;
@@ -607,7 +607,7 @@ body {
 
 /* 带图片的按钮 */
 .player-btn {
-    background-image: url("../images/player.png");
+    background-image: url("https://cdn.jsdelivr.net/gh/xbite209/dh/mkonlinemusicplayer/player.png");
     opacity: .8;
     filter: alpha(opacity=80)
 }
